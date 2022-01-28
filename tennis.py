@@ -3,7 +3,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from unityagents import UnityEnvironment
 
-
 from multi_agent import MultiAgent
 
 env = UnityEnvironment(file_name="Tennis.app")

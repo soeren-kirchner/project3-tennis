@@ -26,3 +26,9 @@ pip install .
     * [Windows (32-bit)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86.zip)
     * [Windows (64-bit)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86_64.zip)
 * Unzip the environment to the root path of this project.
+
+# Run the Project for Training
+Open tennis.ipynb and run the cells!
+
+# Play the Environment with trained agents
+Open play.ipynb and run the cells!
